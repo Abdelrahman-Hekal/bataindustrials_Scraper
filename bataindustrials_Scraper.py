@@ -329,8 +329,8 @@ def clear_screen():
 
     
 # Website login credentials
-name1 = "jessica.reurink@essholding.com"
-pwd1 = "72663-ST-lp"
+name1 = ""
+pwd1 = ""
 
 if __name__ == '__main__':
 
